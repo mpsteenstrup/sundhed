@@ -140,4 +140,4 @@ skridt
 Her skal vi gøre næsten det samme, følg linket for en introduktion,
 [LINK](https://pulsesensor.com/pages/micro-bit-fun).
 
-$\pi = 3.141$
+$$\pi = 3.141$$
