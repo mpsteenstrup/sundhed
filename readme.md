@@ -123,7 +123,7 @@ a = \sqrt{x^2+y^2+z^2}
 " /> Hvis microbitten skal forstå de
 skal I lave en variabel
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=a^2 =x^2+y^2+z^2">
 
 ```
 acc = (x**2+y**2+z**2)**0.5,
