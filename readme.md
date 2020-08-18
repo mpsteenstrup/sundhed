@@ -124,7 +124,7 @@ a = \sqrt{x^2+y^2+z^2}
 skal I lave en variabel
 
 <img src="https://render.githubusercontent.com/render/math?math=a^2 =x^2%2By^2%2Bz^2">
-![](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Csqrt%7Bx%5E2&plus;y%5E2&plus;z%5E2%7D)
+![acceleration](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Csqrt%7Bx%5E2&plus;y%5E2&plus;z%5E2%7D)
 
 ```
 acc = (x**2+y**2+z**2)**0.5,
