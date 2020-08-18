@@ -123,6 +123,8 @@ a = \sqrt{x^2+y^2+z^2}
 " /> Hvis microbitten skal forstå de
 skal I lave en variabel
 
+$`a^2 = b^+^2`$
+
 ```
 acc = (x**2+y**2+z**2)**0.5,
 ```
