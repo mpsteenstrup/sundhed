@@ -117,13 +117,10 @@ de enkelt kan vi eks få får vi x accelerationen. Accelerationen i x,y,z
 giver en samlet acceleration som er en vektor i 3 dimensioner. Hvis vi
 skal have et tal, en skalar, til vores trigger kan vi beregne længden af
 denne vektor. Det gør I som I har lært i to dimensioner med brug af
-pythagoras,
-<img src="https://latex.codecogs.com/svg.latex?;
-a = \sqrt{x^2+y^2+z^2}
-" /> Hvis microbitten skal forstå de
+pythagoras,![pythagoras](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Csqrt%7Bx%5E2&plus;y%5E2&plus;z%5E2%7D). Hvis microbitten skal forstå de
 skal I lave en variabel
 
-![Hello](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Csqrt%7Bx%5E2&plus;y%5E2&plus;z%5E2%7D)
+
 
 ```
 acc = (x**2+y**2+z**2)**0.5,
