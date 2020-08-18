@@ -123,7 +123,7 @@ a = \sqrt{x^2+y^2+z^2}
 " /> Hvis microbitten skal forstå de
 skal I lave en variabel
 
-![Hello](https://latex.codecogs.com/gif.latex?a/b)
+![Hello](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Csqrt%7Bx%5E2&plus;y%5E2&plus;z%5E2%7D)
 
 ```
 acc = (x**2+y**2+z**2)**0.5,
